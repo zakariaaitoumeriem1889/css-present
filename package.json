@@ -1,0 +1,15 @@
+{
+  "name": "build-a-css-christmas-present",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Zakaria AITOUMERIEM <zakariaaitoumeriem1889@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
